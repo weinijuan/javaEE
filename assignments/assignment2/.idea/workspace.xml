@@ -4,33 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a93718bb-253e-4ea4-a58c-6059d066e72e" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/InitMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/whu/MyClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/myapp.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/no.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/whu/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/myapp.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/no.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenDemo/src/main/java/edu/whu/SortUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenDemo/src/main/java/edu/whu/SortUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenDemo/src/test/java/edu/whu/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenDemo/src/test/java/edu/whu/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenDemo/src/test/java/edu/whu/SortUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenDemo/src/test/java/edu/whu/SortUtilTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenDemo/target/classes/edu/whu/SortUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenDemo/target/classes/edu/whu/SortUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenDemo/target/surefire-reports/TEST-edu.whu.CalculatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenDemo/target/surefire-reports/TEST-edu.whu.CalculatorTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenDemo/target/surefire-reports/TEST-edu.whu.FactorialTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenDemo/target/surefire-reports/TEST-edu.whu.FactorialTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenDemo/target/surefire-reports/TEST-edu.whu.SortUtilTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenDemo/target/surefire-reports/TEST-edu.whu.SortUtilTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenDemo/target/surefire-reports/edu.whu.CalculatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenDemo/target/surefire-reports/edu.whu.CalculatorTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenDemo/target/surefire-reports/edu.whu.FactorialTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenDemo/target/surefire-reports/edu.whu.FactorialTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mavenDemo/target/test-classes/edu/whu/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../mavenDemo/target/test-classes/edu/whu/CalculatorTest.class" afterDir="false" />
+    <list default="true" id="a93718bb-253e-4ea4-a58c-6059d066e72e" name="更改" comment="assignment2">
+      <change afterPath="$PROJECT_DIR$/../../mavenDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="assignment2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="assignment2" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MainTest" />
@@ -173,6 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695263716288</updated>
       <workItem from="1695263717523" duration="5769000" />
+      <workItem from="1695279492693" duration="2000" />
     </task>
     <servers />
   </component>
