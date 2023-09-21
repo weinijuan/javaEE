@@ -1,0 +1,14 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡‡Ÿóøÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ä·¡ïþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ä·¡ïþÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ýöÐ¢ùÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(É”íÖ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É”íÖ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
